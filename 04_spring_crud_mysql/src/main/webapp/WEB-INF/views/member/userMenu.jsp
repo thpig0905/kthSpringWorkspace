@@ -20,7 +20,7 @@
 		<a href="${cp}/member/modifyForm">정보수정</a>	<br>
 		<a href="${cp}/member/deletePro">탈퇴</a>							<br>
 	</c:if>
-	
+
 	<a href="${cp}/member/index">메인으로</a>			<br>
 </body>
 </html>

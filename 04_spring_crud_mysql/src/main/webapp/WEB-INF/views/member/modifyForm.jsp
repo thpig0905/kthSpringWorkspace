@@ -28,11 +28,11 @@
 				</tr>
 				<tr>
 					<td>패스워드</td>
-					<td><input name="pw"></td>
+					<td><input type="password" value="${member.pw}" name="pw"></td>
 				</tr>
 				<tr>
 					<td>이메일</td>
-					<td><input name="email"></td>
+					<td><input type="text" value="${member.email}" name="email"></td>
 				</tr>
 				<tr>
 					<td colspan="2">
