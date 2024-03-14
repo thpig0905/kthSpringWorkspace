@@ -76,6 +76,10 @@
                                                maxlength="20" placeholder="이메일을 입력하세요."/></td>
                     </tr>
                     <tr>
+                        <td>프로필 이미지</td>
+                        <td><input type="file" name="memProfile" placeholder="파일 추가"></td>
+                    </tr>
+                    <tr>
                         <td colspan="3" style="text-align: left;">
                             <span id="passMessage" style="color: red"></span><input type="button"
                                                                                     class="btn btn-primary btn-sm pull-right"

@@ -34,7 +34,5 @@ public class Member {
             return "비밀번호가 틀립니다,";
         }
         return null;
-
     }
-
 }

@@ -40,3 +40,5 @@ from myboard
 order by idx desc;
 select *
 from members;
+
+update members set memProfile = '1.jpg' where memIdx = 6;

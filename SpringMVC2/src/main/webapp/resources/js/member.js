@@ -54,8 +54,10 @@ function goInsert() {
         changeMsg('아이디 중복체크 해주세요');
         showModal();
     }
+    if (memProfile.value === '' || memProfile.value === null) {
+        memProfile.value = 'person.png';
+    }
     form.submit();
-    //fetch(cp + '/member/memRegister.do?m=' + encodeURIComponent(JSON.stringify(mem)))
 }
 
 
