@@ -1,8 +1,8 @@
-
 let memID = '';
-function loadData(mvoID){
-     memID = mvoID;
-	loadList();
+
+function loadData(mvoID) {
+    memID = mvoID;
+    loadList();
 }
 
 function loadList() {
@@ -19,7 +19,7 @@ function loadList() {
         });
 }
 
-function makeView(data,memID) {
+function makeView(data, memID) {
 
     const view = document.querySelector("#view");
     const wfrom = document.querySelector("#wfrom");
@@ -33,11 +33,11 @@ function makeView(data,memID) {
                 <td>조회수</td>
             </tr>
     `
-    
-    console.log("data=" , data);
+
+    console.log("data=", data);
 
     data.forEach(obj => {
-        console.log("obj=" ,obj);
+        console.log("obj=", obj);
         listHtml += `
             <tr>
                 <td>${obj.idx}</td>
@@ -53,7 +53,7 @@ function makeView(data,memID) {
                     <br/>
         `;
 
-        if (memID!='' && memID === obj.memID) {
+        if (memID != '' && memID === obj.memID) {
             listHtml += `
                 <span id='ub${obj.idx}'><button class='btn btn-success btn-sm' onclick='javascript:goUpdateForm(${obj.idx})'>수정화면</button></span>&nbsp;
                 <button class='btn btn-warning btn-sm' onclick='goDelete(${obj.idx})'>삭제</button>
@@ -71,7 +71,7 @@ function makeView(data,memID) {
         `;
     });
 // 로그인을 해야 보이는 부분
-    if (memID!='') {
+    if (memID != '') {
         listHtml += `
             <tr>
                 <td colspan='5'>
@@ -98,20 +98,20 @@ function goList() {
 }
 
 function goInsert() {
-  let form = document.getElementById("frm");
+    let form = document.getElementById("frm");
     fetch("board/new", {
         method: "POST",
         body: new URLSearchParams({ // 일반 객체를 fordata형식으로 변환해주는 클래스
-        memID: memID,
-        title: form.title.value,
-        content: form.content.value,
-        writer: form.writer.value
-   		 })
+            memID: memID,
+            title: form.title.value,
+            content: form.content.value,
+            writer: form.writer.value
+        })
     })
-    .then(loadList)
-    .catch(error => {
-        console.error("Error occurred while processing the request:", error);
-    });
+        .then(loadList)
+        .catch(error => {
+            console.error("Error occurred while processing the request:", error);
+        });
 
     document.querySelector("#fclear").click();
 }
@@ -136,13 +136,13 @@ function goContent(idx) {
         fetch(`board/count/${idx}`, {
             method: "PUT",
         })
-        .then(response => response.json())
-        .then(data => {
-            document.querySelector(`#cnt${idx}`).textContent = data.count;
-        })
-        .catch(error => {
-            console.error("Error occurred while processing the request:", error);
-        });
+            .then(response => response.json())
+            .then(data => {
+                document.querySelector(`#cnt${idx}`).textContent = data.count;
+            })
+            .catch(error => {
+                console.error("Error occurred while processing the request:", error);
+            });
     }
 }
 
@@ -150,10 +150,10 @@ function goDelete(idx) {
     fetch(`board/${idx}`, {
         method: "DELETE",
     })
-    .then(loadList)
-    .catch(error => {
-        console.error("Error occurred while processing the request:", error);
-    });
+        .then(loadList)
+        .catch(error => {
+            console.error("Error occurred while processing the request:", error);
+        });
 }
 
 function goUpdateForm(idx) {
@@ -176,10 +176,10 @@ function goUpdate(idx) {
         headers: {
             "Content-Type": "application/json;charset=utf-8",
         },
-        body: JSON.stringify({ idx, title, content }),
+        body: JSON.stringify({idx, title, content}),
     })
-    .then(loadList)
-    .catch(error => {
-        console.error("Error occurred while processing the request:", error);
-    });
+        .then(loadList)
+        .catch(error => {
+            console.error("Error occurred while processing the request:", error);
+        });
 }

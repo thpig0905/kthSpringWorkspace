@@ -10,21 +10,23 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 
 @Controller
 public class MainController {
-	@GetMapping("/")
-	public String index(Model model , HttpServletRequest request) {
-		model.addAttribute("cp", request.getContextPath());	
-		return "index";
-	}
-	@GetMapping("/home")
-	public String home() {
-		return "common/template";
-	}
-	@GetMapping("/boardMain.do")
-	public String main() {
-		return "board/main"; 
-	}
-	
-	
+    @GetMapping("/")
+    public String index(Model model, HttpServletRequest request) {
+        model.addAttribute("cp", request.getContextPath());
+        return "index";
+    }
+
+    @GetMapping("/home")
+    public String home() {
+        return "common/template";
+    }
+
+    @GetMapping("/boardMain.do")
+    public String main() {
+        return "board/main";
+    }
+
+
 }
 
 
