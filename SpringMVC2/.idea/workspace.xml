@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4fe3974d-f0df-41f8-a104-37f48d194a08" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/board/config/WebMVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/board/config/WebMVCConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/board/controller/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/board/controller/BoardController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/board/mapper/BoardMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/board/mapper/BoardMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kr/board/controller/BoardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kr/board/controller/BoardController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/kr/board/mapper/BoardMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kr/board/mapper/BoardMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/board.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/board.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +209,7 @@
       <workItem from="1710378122045" duration="643000" />
       <workItem from="1710379471468" duration="45000" />
       <workItem from="1710379542700" duration="2855000" />
-      <workItem from="1710382458629" duration="12886000" />
+      <workItem from="1710382458629" duration="14966000" />
     </task>
     <servers />
   </component>

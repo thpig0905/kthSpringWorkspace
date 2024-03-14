@@ -53,7 +53,7 @@ function makeView(data, memID) {
                     <br/>
         `;
 
-        if (memID != '' && memID === obj.memID) {
+        if (memID !== '' && memID === obj.memID) {
             listHtml += `
                 <span id='ub${obj.idx}'><button class='btn btn-success btn-sm' onclick='javascript:goUpdateForm(${obj.idx})'>수정화면</button></span>&nbsp;
                 <button class='btn btn-warning btn-sm' onclick='goDelete(${obj.idx})'>삭제</button>
