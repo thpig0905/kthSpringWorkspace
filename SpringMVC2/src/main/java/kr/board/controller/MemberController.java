@@ -140,7 +140,7 @@ public class MemberController {
 				rttr.addFlashAttribute("msg", "비밀번호가 서로 다릅니다.");
 				return "redirect:/member/memJoin.do";  // ${msgType} , ${msg}
 			}
-			m.setMemProfile(""); // 사진이미는 없다는 의미 ""
+			m.setMemProfile(""); // 사진은 없다는 의미 ""
 			m.setMemPassword(memPassword1);
 			int result = memberMapper.memUpdate(m);
 

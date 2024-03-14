@@ -63,6 +63,11 @@ function goUpdate() {
     if (form.memAge.value < 1 || form.memAge.value > 100) {
         return alert(' 올바른 나이 입력해주세요 ');
     }
+    if (form.memPassword1.value !== form.memPassword2.value || !form.memPassword1.value) {
+      changeMsg('비밀번호를 확인해주세요');
+        showModal();
+        return false;
+    }
     form.submit();
 }
   
