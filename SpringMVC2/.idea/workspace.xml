@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fe3974d-f0df-41f8-a104-37f48d194a08" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/board/config/WebMVCConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/board/controller/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/board/controller/BoardController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kr/board/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/board/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/member.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/member.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kr/board/controller/BoardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kr/board/controller/BoardController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2deotgXYSKj9tWPXCZpyLOq4eWs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -200,7 +205,7 @@
       <workItem from="1710378122045" duration="643000" />
       <workItem from="1710379471468" duration="45000" />
       <workItem from="1710379542700" duration="2855000" />
-      <workItem from="1710382458629" duration="5453000" />
+      <workItem from="1710382458629" duration="8144000" />
     </task>
     <servers />
   </component>

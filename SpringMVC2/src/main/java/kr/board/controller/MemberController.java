@@ -155,4 +155,6 @@ public class MemberController {
 				return "redirect:/member/memUpdateForm.do";
 			}
 		}
+
+
 }

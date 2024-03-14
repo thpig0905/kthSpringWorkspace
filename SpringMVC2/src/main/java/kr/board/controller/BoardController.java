@@ -36,10 +36,18 @@ public class BoardController{
 	    // @ResponseBody->jackson-databind(객체를->JSON 데이터포멧으로 변환)
 		@GetMapping("/all")
 		public List<Board> boardList(){
-			List<Board> list=boardMapper.getLists();
+			List<Board> list = boardMapper.getLists();
 			return list; // JSON 데이터 형식으로 변환(API)해서 리턴(응답)하겠다.
 		}	
 		//@RequestMapping("/boardInsert.do")
+
+		@PostMapping("/boards")
+		public String addBoard(@RequestBody Board board) {
+			String msg = board.toString();
+			System.out.println(board.toString());
+			return msg;
+		}
+
 		@PostMapping("/new")
 		public void boardInsert(Board vo) {
 			
