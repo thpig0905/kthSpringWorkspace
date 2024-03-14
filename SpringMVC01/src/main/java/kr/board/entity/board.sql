@@ -1,3 +1,5 @@
+USE board;
+
 create table myboard(
 	idx int not null auto_increment,
 	title varchar(100) not null,

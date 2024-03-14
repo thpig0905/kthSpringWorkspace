@@ -5,267 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2354a55f-398b-4064-9956-d5cdfb535c2a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/kthSpringWorkspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.php.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.dltk.core/Containers.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.dltk.ui/OpenTypeHistoryorg_eclipse_php_core_PHPNature.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.mpc.ui/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.1.20231030-1438.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.mylyn.tasks.ui/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wildwebdeveloper.xml/system-catalog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.settings/org.springframework.ide.eclipse.beans.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.settings/org.springframework.ide.eclipse.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/.springBeans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/java/com/myspring/test/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/java/com/myspring/test/_01Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/java/com/myspring/test/_02User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/java/com/myspring/test/_02UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/java/com/myspring/test/_03Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/java/com/myspring/test/_03ClientDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/src/test/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/target/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/target/m2e-wtp/web-resources/META-INF/maven/com.myspring/test/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/target/m2e-wtp/web-resources/META-INF/maven/com.myspring/test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01_spring_basic/target/test-classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.settings/org.springframework.ide.eclipse.beans.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.settings/org.springframework.ide.eclipse.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/.springBeans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/java/com/myspring/test/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/java/com/myspring/test/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/views/joinForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/views/joinPro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/views/logOut.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/views/loginForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/views/loginPro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/src/test/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/target/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/target/m2e-wtp/web-resources/META-INF/maven/com.myspring/test/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/target/m2e-wtp/web-resources/META-INF/maven/com.myspring/test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_spring_CRUD/target/test-classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.settings/org.springframework.ide.eclipse.beans.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.settings/org.springframework.ide.eclipse.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/.springBeans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/java/com/myspring/test/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/java/com/myspring/test/member/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/java/com/myspring/test/member/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/java/com/myspring/test/member/MemberDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/04_spring_crud_mysql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/joinForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/loginForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/loginPro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/logoutPro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/modifyForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/views/member/userMenu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/main/webapp/resources/css/normal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/src/test/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/target/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/target/m2e-wtp/web-resources/META-INF/maven/com.myspring/test/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/target/m2e-wtp/web-resources/META-INF/maven/com.myspring/test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/target/test-classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.settings/org.springframework.ide.eclipse.beans.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.settings/org.springframework.ide.eclipse.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/.springBeans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/src/main/java/com/mysql/basic/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/src/test/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/target/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/target/m2e-wtp/web-resources/META-INF/maven/com.mysql/basic/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/target/m2e-wtp/web-resources/META-INF/maven/com.mysql/basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_spring_mysql/target/test-classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost (2)-config/catalina.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost (2)-config/catalina.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost (2)-config/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost (2)-config/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost (2)-config/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost (2)-config/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/catalina.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/catalina.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.springframework.ide.eclipse.beans.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.springframework.ide.eclipse.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.springBeans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/board/controller/BoardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/board/entity/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/board/entity/board.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/board/mapper/BoardMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/board/mapper/BoardMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/boardContent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/boardForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/boardList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/boardUpdate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/template.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kr/board/entity/board.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/kr/board/mapper/BoardMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/kr/board/entity/board.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/kr/board/mapper/BoardMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/views/boardContent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/views/boardForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/views/boardList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/views/boardUpdate.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/views/template.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/controller-1.0.0-BUILD-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/kr.board/controller/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/kr.board/controller/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.settings/org.springframework.ide.eclipse.beans.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.settings/org.springframework.ide.eclipse.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.springBeans" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/main/java/com/spring/mvc/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/main/webapp/WEB-INF/views/template.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/src/test/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/target/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/target/m2e-wtp/web-resources/META-INF/maven/com.spring/mvc/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/target/m2e-wtp/web-resources/META-INF/maven/com.spring/mvc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc1/target/test-classes/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/src/main/webapp/WEB-INF/template.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC01-1/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/255a918b-dccc-4a14-b4b2-a4dfbe9bd1ae.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/255a918b-dccc-4a14-b4b2-a4dfbe9bd1ae/storage_v2/_src_/schema/board.5u6YBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/255a918b-dccc-4a14-b4b2-a4dfbe9bd1ae/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/255a918b-dccc-4a14-b4b2-a4dfbe9bd1ae/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/255a918b-dccc-4a14-b4b2-a4dfbe9bd1ae/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/255a918b-dccc-4a14-b4b2-a4dfbe9bd1ae/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc1/target/classes/com/spring/mvc/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kthSpringWorkspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/kthSpringWorkspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_spring_crud_mysql/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_spring_crud_mysql/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/board/entity/board.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/board/entity/board.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kr/board/entity/board.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kr/board/mapper/BoardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc1/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,6 +95,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -303,33 +119,33 @@
     <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Smart Tomcat.SmartTomcat 9.0.85.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gimminhyeog/Documents/kthSpringWorkspace/SpringMVC01",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.SmartTomcat 9.0.85.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gimminhyeog/Documents/kthSpringWorkspace/SpringMVC01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;아티팩트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2454805&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Smart Tomcat.SmartTomcat 9.0.85">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -439,9 +255,6 @@
       <option name="catalinaBase" value="$USER_HOME$/.SmartTomcat/SpringMVC01/controller" />
       <option name="contextPath" value="/controller" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
-      <option name="envOptions">
-        <map />
-      </option>
       <option name="extraClassPath" value="" />
       <option name="tomcatInfo">
         <TomcatInfo>
@@ -480,6 +293,9 @@
       <updated>1710212719377</updated>
       <workItem from="1710212720465" duration="149000" />
       <workItem from="1710219117821" duration="618000" />
+      <workItem from="1710231284299" duration="1096000" />
+      <workItem from="1710232443821" duration="1473000" />
+      <workItem from="1710377972995" duration="100000" />
     </task>
     <servers />
   </component>
