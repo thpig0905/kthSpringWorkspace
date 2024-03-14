@@ -1,5 +1,5 @@
+let check = false;
 function registerCheck(cp) {
-/*
   let memID = document.getElementById('memID').value;
   if (!memID) {
     kindOfModal('panel-info');
@@ -29,9 +29,6 @@ function registerCheck(cp) {
     .catch((error) => {
       console.error('There was a problem with the fetch operation:', error);
     });
-    */ 
-    
-    check = true;
 }
 
 function passwordCheck() {
@@ -56,11 +53,16 @@ function goInsert() {
     changeMsg('아이디 중복체크 해주세요');
     showModal();
   }
-
+  form.submit();
+  //fetch(cp + '/member/memRegister.do?m=' + encodeURIComponent(JSON.stringify(mem)))
 }
 
 
 function goUpdate() {
-	// 실습
+	let form = document.forms['frm'];
+    if (form.memAge.value < 1 || form.memAge.value > 100) {
+        return alert(' 올바른 나이 입력해주세요 ');
+    }
+    form.submit();
 }
   
