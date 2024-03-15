@@ -91,6 +91,26 @@
         </webroots>
       </configuration>
     </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/SpringBoard/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/SpringBoard/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/SpringMVC01-1/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/SpringMVC01-1/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />

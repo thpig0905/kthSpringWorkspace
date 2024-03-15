@@ -1,4 +1,6 @@
 let memID = '';
+let csrfToken = document.querySelector("#csrf").value;
+let csrfName = document.querySelector("#csrf").name;
 
 function loadData(mvoID) {
     memID = mvoID;
@@ -149,6 +151,10 @@ function goContent(idx) {
 function goDelete(idx) {
     fetch(`board/${idx}`, {
         method: "DELETE",
+        headers: {
+            "X-CSRF-TOKEN": csrfToken,
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
     })
         .then(loadList)
         .catch(error => {
